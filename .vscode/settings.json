@@ -24,4 +24,7 @@
   "prettier.singleQuote": false,
   "gitdoc.enabled": true,
   "cSpell.language": "en,en-US",
+  "cSpell.enableFiletypes": [
+    "kotlin"
+  ],
 }
