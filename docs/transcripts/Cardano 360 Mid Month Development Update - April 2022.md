@@ -1,6 +1,6 @@
 # Cardano 360 Mid Month Development Update - April 2022
 
-[00:00:00] So welcome to April's mid month development update. Now, before we start, make sure you like subscribe and hit that bell. So you can get alerted tool that I use is video content that we put out on the IHG channel. Now we'll have a regular update today, but as well as that, we've got some bonus content for you.
+[00:00:00] **Tim Harrison:** So welcome to April's mid month development update. Now, before we start, make sure you like subscribe and hit that bell. So you can get alerted tool that I use is video content that we put out on the IHG channel. Now we'll have a regular update today, but as well as that, we've got some bonus content for you.
 
 [00:00:16] We asked John to record a video and polluters and particularly what the vessel heartfelt will bring to the development of the platform. So that'll. A little bit later in the show. We'll also have Matthew on later talking to just some of the projects building on Cardona. This time we'll feature our Donna meld, muesli swap and ergo decks.
 
